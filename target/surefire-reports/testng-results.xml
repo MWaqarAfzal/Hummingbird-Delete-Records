@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-09-15T22:04:48 PKT" name="Surefire suite" finished-at="2024-09-15T22:07:29 PKT" duration-ms="160073">
+    <groups>
+    </groups>
+    <test started-at="2024-09-15T22:04:48 PKT" name="Surefire test" finished-at="2024-09-15T22:07:29 PKT" duration-ms="160073">
+      <class name="hummingbird.Tests.DeleteAccountingTemplate">
+        <test-method is-config="true" signature="browserInitilizer()[pri:0, instance:hummingbird.Tests.DeleteAccountingTemplate@564718df]" started-at="2024-09-15T22:04:48 PKT" name="browserInitilizer" finished-at="2024-09-15T22:05:50 PKT" duration-ms="61382" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserInitilizer -->
+        <test-method signature="deleteAccountingTemplate()[pri:0, instance:hummingbird.Tests.DeleteAccountingTemplate@564718df]" started-at="2024-09-15T22:05:50 PKT" name="deleteAccountingTemplate" finished-at="2024-09-15T22:07:29 PKT" duration-ms="98622" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteAccountingTemplate -->
+      </class> <!-- hummingbird.Tests.DeleteAccountingTemplate -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>

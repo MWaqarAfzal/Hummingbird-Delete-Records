@@ -1,0 +1,7 @@
+hummingbird\PageObject\MainDashboard.class
+Utilities\CommonMethods.class
+hummingbird\CommonLocators.class
+hummingbird\PageObject\AccountingSesttings.class
+hummingbird\PageObject\LoginPage.class
+hummingbird\PageObject\DelinquencyAutomation.class
+hummingbird\PageObject\DeleteRecords.class

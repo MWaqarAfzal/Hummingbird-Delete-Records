@@ -1,0 +1,6 @@
+hummingbird\Tests\DashboardTest.class
+hummingbird\Tests\DeleteDelinquencyAutomation.class
+hummingbird\Tests\DeleteAccountingTemplate.class
+hummingbird\BaseTestComponent\BaseTest.class
+hummingbird\BaseTestComponent\BaseTest$1.class
+hummingbird\Tests\LoginTest.class
